@@ -1,7 +1,7 @@
 {
-  "id": "ravanno-dnd5e-es",
-  "title": "Translation: Español [DnD5e]",
-  "description": "Traducción al español del sistema de Dungeons &amp; Dragons 5E (SRD).",
+  "id": "translate-test",
+  "title": "Pruebas de traduccion",
+  "description": "Este compendio es solo para probar con las traducciones, no tiene manifest asi que hay que cargarlo a mano",
   "version": "5.0.2.2",
   "compatibility": {
     "minimum": "11.315",
@@ -29,7 +29,7 @@
     "systems": [
       {
         "id": "dnd5e",
-        "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
+        "manifest": "",
         "compatibility": {
           "minimum": "3.3.0",
           "verified": "5"

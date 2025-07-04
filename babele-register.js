@@ -8,7 +8,7 @@ Hooks.once('init', () => {
 		console.log('***********************');
 
 		Babele.get().register({
-			module: 'ravanno-dnd5e-es',
+			module: 'translate-test',
 			lang: 'es',
 			dir: 'compendium'
 		});
