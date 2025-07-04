@@ -18,7 +18,8 @@
   },
   "entries": {
     "Acid Arrow": {
-      "name": "Acid Arrow"
+      "name": "Flecha Ácida",
+      "description": "<p>Una brillante flecha verde surca el aire hacia un objetivo dentro del alcance y estalla en una lluvia de ácido. Realiza un ataque de conjuro a distancia contra el objetivo. Si impactas, el objetivo recibe [[/damage 4d4 acid]] y [[/damage 2d4 acid]] al final de su siguiente turno. Si fallas, la flecha salpica al objetivo con ácido, causándole solo la mitad del daño inicial.</p> <p><strong>Usar una ranura de conjuro de nivel superior.</strong> El daño (tanto inicial como posterior) aumenta en [[/damage 1d4 acid]] por cada nivel de espacio por encima de 2.</p>"
     },
     "Acid Splash": {
       "name": "Acid Splash"
