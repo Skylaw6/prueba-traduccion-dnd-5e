@@ -25,7 +25,7 @@
       "name": "Salpicadura de Ácido"
     },
     "Aid": {
-      "name": "Ayuda"
+      "name": "Auxilio"
     },
     "Alarm": {
       "name": "Alarma"
@@ -46,7 +46,7 @@
       "name": "Levantar a los muertos"
     },
     "Animate Objects": {
-      "name": "Objetos Animados"
+      "name": "Animar Objetos"
     },
     "Antilife Shell": {
       "name": "Caparazón Antivida"
@@ -70,7 +70,7 @@
       "name": "Espada Arcana"
     },
     "Arcane Vigor": {
-      "name": "Vigor Arcane"
+      "name": "Vigor Arcano"
     },
     "Arcanist's Magic Aura": {
       "name": "Aura Mágica Arcanista"
@@ -331,7 +331,7 @@
       "name": "Elementalismo"
     },
     "Enhance Ability": {
-      "name": "Ptenciar Característica"
+      "name": "Potenciar Característica"
     },
     "Enlarge/Reduce": {
       "name": "Agrandar/Reducir"
@@ -496,7 +496,7 @@
       "name": "Dañar"
     },
     "Haste": {
-      "name": "Prisa"
+      "name": "Acelerar"
     },
     "Heal": {
       "name": "Sanar"
@@ -712,7 +712,7 @@
       "name": "Atadura Planar"
     },
     "Plane Shift": {
-      "name": "DEsplazamiento entre Planos"
+      "name": "Desplazamiento entre Planos"
     },
     "Plant Growth": {
       "name": "Crecimiento Vegetal"
@@ -904,13 +904,13 @@
       "name": "Arma Espiritual"
     },
     "Starry Wisp": {
-      "name": "Centella Esteal"
+      "name": "Centella Estelar"
     },
     "Stinking Cloud": {
       "name": "Nube Apestosa"
     },
     "Stone Shape": {
-      "name": "Froma de Piedra"
+      "name": "Forma de Piedra"
     },
     "Stoneskin": {
       "name": "Piel Pétrea"
